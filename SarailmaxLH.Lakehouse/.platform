@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Lakehouse",
+    "displayName": "SarailmaxLH",
+    "description": ""
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "878fa43b-cfb8-9a68-44a5-53935fc4d919"
+  }
+}

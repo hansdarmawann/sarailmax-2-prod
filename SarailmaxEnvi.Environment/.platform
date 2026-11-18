@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "SarailmaxEnvi",
+    "description": "Environment"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "44f14437-b148-86a0-496a-3393d70b7244"
+  }
+}
