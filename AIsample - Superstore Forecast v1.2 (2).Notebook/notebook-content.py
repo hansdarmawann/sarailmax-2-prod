@@ -8,12 +8,12 @@
 # META   },
 # META   "dependencies": {
 # META     "lakehouse": {
-# META       "default_lakehouse": "3dda0e8a-200c-40f8-a30a-f39f4b379e13",
+# META       "default_lakehouse": "5fc4d919-5393-44a5-9a68-cfb8878fa43b",
 # META       "default_lakehouse_name": "SarailmaxLH",
-# META       "default_lakehouse_workspace_id": "71b0c63f-dce5-4925-879e-cb17b2a8a29e",
+# META       "default_lakehouse_workspace_id": "6d7918e1-aae1-43e0-ac64-6981ddb2dee0",
 # META       "known_lakehouses": [
 # META         {
-# META           "id": "3dda0e8a-200c-40f8-a30a-f39f4b379e13"
+# META           "id": "5fc4d919-5393-44a5-9a68-cfb8878fa43b"
 # META         }
 # META       ]
 # META     },
